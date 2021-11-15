@@ -7,7 +7,7 @@ public class GitExempel {
         int i = 1;
                 while(i<antal){
                     int[i] siffror = JOptionPane.showInputDialog("tal nummer " + i + "?");
-                            int i = i + 1;
+                            i = i + 1;
                 }
     }
 }
